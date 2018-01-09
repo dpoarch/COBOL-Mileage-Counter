@@ -1,1 +1,1 @@
-# COBOL-Mileage-Counter
+Demonstrates how the PERFORM..VARYING and the PERFORM..VARYING..AFTER (fourth format) may be used to simulate a mileage counter
